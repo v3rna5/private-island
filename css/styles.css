@@ -1,3 +1,22 @@
 h1 {
-  color: green;
+  color: white;
+}
+
+body {
+  background-color: teal;
+  text-align: center;
+  font-family:fantasy;
+}
+
+li {
+  color: white;
+  font-weight: bold;
+}
+h2 {
+  color: white;
+  font-size: 30px;
+}
+
+p {
+  color: white;
 }
